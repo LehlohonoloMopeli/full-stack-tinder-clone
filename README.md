@@ -1,7 +1,9 @@
 # Tinder-clone
 
   
-  ### This is a clone of the famous dating application, Tinder. This application has one commit because I made it during a MERN stack coding challenge (made entire code in one sitting). 
+![tinder img](tinder-clone/public/tinder.png)
+  
+  ### This is a clone of the famous dating application, Tinder. This application has one commit because I made it during a MERN stack coding challenge (made entire code in one sitting). Front-end is hosted on Firebase, the backend on Heroku, and the database on MongoDB.  
     
 <br>
 
