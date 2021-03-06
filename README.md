@@ -14,7 +14,7 @@
   ## Installation
 - Clone the repository for the application:
   ```javascript
-  git clone https://github.com/LehlohonoloMopeli/full-stack-tinder-clone
+  git clone https://github.com/LehlohonoloMopeli/full-stack-tinder-clone.git
   ```
    
 - To start the front-end: change directory to the frontend folder
